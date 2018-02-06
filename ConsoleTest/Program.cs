@@ -11,6 +11,7 @@ namespace ConsoleTest
         static void Main(string[] args)
         {
             Console.WriteLine("тест");
+            Console.WriteLine("тест 1");
             Console.ReadLine();
         }
     }
